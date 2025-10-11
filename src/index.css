@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.font-cursive {
+  font-family: 'Great Vibes', cursive;
+}
+html {
+  scroll-behavior: smooth;
+}
+
