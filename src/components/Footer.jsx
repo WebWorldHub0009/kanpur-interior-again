@@ -164,14 +164,13 @@ export default function FooterKanpur() {
             Contact Info
           </h4>
           <address className="not-italic leading-relaxed mb-4 text-black">
-            C/o Of Shakuntala Niwas, House No. 8/59 Ground Floor,
+             1/1c, G.T.Road, near jugal palace,   
             <br />
-            Nearby Anjaneya Crystal, GT Road, Krishna Nagar,
-            <br />
-            Kanpur, Uttar Pradesh 208007
+           Netajinagar, Krishna Nagar, Kanpur, Uttar Pradesh 208007
+           
           </address>
 
-          {["+91 8299334764"].map((num, i) => (
+          {["+91 9792302099"].map((num, i) => (
             <p key={i} className="text-sm mb-2 flex items-center gap-2 text-black">
               <FaPhoneAlt style={{ color: colors.gold }} />
               <a

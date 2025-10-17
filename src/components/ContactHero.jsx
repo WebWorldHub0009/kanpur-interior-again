@@ -42,7 +42,7 @@ const ContactHero = () => {
         {/* CTA Buttons */}
         <div className="flex flex-col sm:flex-row gap-4">
           <a
-            href="tel:+918299334764"
+            href="tel:+919792302099"
             className="inline-flex items-center justify-center gap-2 bg-[#C5A46D] text-white px-8 py-3 rounded-full text-base font-medium tracking-wide hover:bg-[#b8945d] transition-all shadow-md"
           >
             <FaPhoneAlt className="text-sm" />

@@ -65,7 +65,7 @@ const Contact = () => {
           <div className="space-y-6 text-base">
             <div className="flex items-start gap-3">
               <FaPhoneAlt size={22} style={{ color: colors.gold }} />
-              <p className="text-charcoal">+91 8299334764</p>
+              <p className="text-charcoal">+91 9792302099</p>
             </div>
             <div className="flex items-start gap-3">
               <FaEnvelope size={22} style={{ color: colors.gold }} />
@@ -74,9 +74,7 @@ const Contact = () => {
             <div className="flex items-start gap-3">
               <FaMapMarkerAlt size={22} style={{ color: colors.gold }} />
               <p className="leading-relaxed">
-                C/o Of Shakuntala Niwas, House No. 8/59 Ground Floor,  
-                Nearby Anjaneya Crystal, GT Road, Krishna Nagar,  
-                Kanpur, Uttar Pradesh 208007
+               1/1c, G.T.Road, near jugal palace, Netajinagar, Krishna Nagar, Kanpur, Uttar Pradesh 208007
               </p>
             </div>
           </div>

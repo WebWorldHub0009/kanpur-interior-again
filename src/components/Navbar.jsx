@@ -94,10 +94,10 @@ const ModernNavbar = () => {
           <p className="flex items-center gap-2">
             <FaPhoneAlt style={{ color: colors.gold }} />
             <a
-              href="tel:+918299334764"
+              href="tel:+919792302099"
               className="hover:text-gold transition"
             >
-              +91 8299334764
+              +919792302099
             </a>
           </p>
         </div>

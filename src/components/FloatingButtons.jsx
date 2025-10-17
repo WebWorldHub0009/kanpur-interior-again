@@ -17,6 +17,7 @@ const FloatingButtons = () => {
         {isOpen && (
           <>
             {/* Call Button */}
+          
             <motion.a
               key="call"
               href="tel:+919792302099"

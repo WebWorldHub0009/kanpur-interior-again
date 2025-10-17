@@ -86,7 +86,7 @@ export default function GalleryHero() {
           className="mt-8 flex flex-col sm:flex-row gap-4"
         >
           <a
-            href="tel:+918299334764"
+            href="tel:+919792302099"
             className="px-8 py-3 rounded-full text-lg font-semibold shadow-lg transition-all duration-300 hover:scale-105"
             style={{
               background: `linear-gradient(90deg, ${colors.gold}, ${colors.dark})`,
